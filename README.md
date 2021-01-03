@@ -8,3 +8,4 @@ cd mysite
 python manage.py spiritinstall
 python manage.py createsuperuser
 python manage.py runserver
+
